@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int findComplement(int num) {
+        string bin = "";
+        while(num){
+            bin = char((num % 2) + '0') + bin;
+            num = num / 2;
+        }
+        cout << bin << endl;
+        for(int i = 0 ; i < bin.size() ; i++){
+            if(bin[i] == '0'){
+                bin[i] = '1';
+            }
+            else{
+                bin[i] = '0';
+            }
+        }
+        int ans = 0;
+        int prod = 1;
+        int i = bin.size() - 1;
+        while(i > 0){
+            if(bin[i] == '1'){
+                ans += prod ;
+            }
+            prod = prod * 2;
+            i--;
+        }
+        return ans;
+    }
+};
