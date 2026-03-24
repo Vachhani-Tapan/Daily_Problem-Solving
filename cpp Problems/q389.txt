@@ -1,0 +1,9 @@
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        char res = 0;
+        for(auto k : s) res ^= k;
+        for(auto k : t) res ^= k;
+        return res;
+    }
+};
