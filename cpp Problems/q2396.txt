@@ -1,0 +1,20 @@
+class Solution {
+public:
+    bool isStrictlyPalindromic(int n) {
+        for (int i = 2; i <= n - 2; i++) {
+            int temp = n;
+            string digit = "";
+            while (temp > 0) {
+                int rem = temp % i;
+                digit = to_string(rem) + digit;
+                temp /= i;
+            }
+            string rev = digit;
+            reverse(rev.begin(), rev.end());
+            if (rev != digit) {
+                return false;
+            }
+        }
+        return true;
+    }
+};
