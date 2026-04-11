@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int maxFreqSum(string s) {
+        map<char, int> v1;
+        map<char, int> c1;
+        string vowel = "aeiou";
+        for (int i = 0; i < s.size(); i++) {
+            if (vowel.find(s[i]) != string::npos) {
+                v1[s[i]]++;
+            } else {
+                c1[s[i]]++;
+            }
+        }
+        int maxVow = 0;
+        int maxCon = 0;
+        for (auto k : v1) {
+            maxVow = max(maxVow, k.second);
+        }
+        for (auto k : c1) {
+            maxCon = max(maxCon, k.second);
+        }
+        return maxCon + maxVow;
+    }
+};
