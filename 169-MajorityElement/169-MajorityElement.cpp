@@ -1,0 +1,34 @@
+// Last updated: 4/15/2026, 10:49:32 AM
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+
+        // Moore's Voting Algorithm
+        int freq = 0;
+        int ans = 0;
+        for(int i = 0 ; i < nums.size() ; i++){
+            if(freq == 0){
+                ans = nums[i];
+            }
+            if(ans == nums[i]){
+                freq++;
+            }
+            else{
+                freq--;
+            }
+        }
+        return ans;
+
+        // map<int , int> m1;
+        // for(auto k : nums){
+        //     m1[k]++;
+        // }
+        // int n = nums.size() / 2;
+        // for(auto k : m1){
+        //     if(k.second > n){
+        //         return k.first;
+        //     }
+        // }
+        // return 0;
+    }
+};
