@@ -1,0 +1,22 @@
+// Last updated: 4/15/2026, 10:46:30 AM
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
+ * };
+ */
+class Solution {
+public:
+    bool checkTree(TreeNode* root) {
+        int r = root->val;
+        int left = root->left->val;
+        int right = root->right->val;
+        return (left + right) == r;
+    }
+};
