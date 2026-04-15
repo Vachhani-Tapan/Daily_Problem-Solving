@@ -1,0 +1,15 @@
+// Last updated: 4/15/2026, 10:43:58 AM
+class Solution {
+public:
+    string largestEven(string s) {
+        for(int i = s.size() - 1 ; i >=0 ; i--){
+            if(s[i] == '1'){
+                s.pop_back();
+            }
+            else{
+                return s;
+            }
+        }
+        return s;
+    }
+};
