@@ -1,0 +1,21 @@
+// Last updated: 4/15/2026, 10:45:19 AM
+class Solution {
+public:
+    bool canBeEqual(string s1, string s2) {
+        if (s1 == s2)
+            return true;
+        string temp1 = s1;
+        string temp2 = s1;
+        for (int i = 0; i < s1.size(); i++) {
+            swap(temp1[i], temp1[i + 2]);
+            if (temp1 == s2)
+                return true;
+        }
+        for (int i = 1; i < s1.size(); i++) {
+            swap(temp2[i], temp2[i + 2]);
+            if (temp2 == s2)
+                return true;
+        }
+        return false;
+    }
+};
