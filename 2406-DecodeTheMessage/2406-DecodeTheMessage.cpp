@@ -1,0 +1,20 @@
+// Last updated: 4/15/2026, 10:46:28 AM
+class Solution {
+public:
+    string decodeMessage(string key, string message) {
+        unordered_map<char, char> m1;
+        char c = 'a';
+        for (auto k : key) {
+            if (!m1[k] && k != ' ') {
+                m1[k] = c;
+                c++;
+            }
+        }
+        m1[' '] = ' ';
+        string ans = "";
+        for (auto k : message) {
+            ans += m1[k];
+        }
+        return ans;
+    }
+};
