@@ -1,0 +1,28 @@
+// Last updated: 4/15/2026, 10:48:57 AM
+class Solution {
+public:
+    int compress(vector<char>& s) {
+        int idx = 0;
+        for(int i = 0 ; i < s.size() ; i++){
+            char c = s[i];
+            int count = 0;
+            while(i < s.size() && s[i] == c){
+                count++;
+                i++;
+            }
+            if(count == 1){
+                s[idx++] = c;
+            }
+            else{
+                s[idx++] = c;
+                string con = to_string(count);
+                for(auto k : con){
+                    s[idx++] = k;
+                }
+            }
+            i--;
+        }
+        s.resize(idx);
+        return idx;
+    }
+};
