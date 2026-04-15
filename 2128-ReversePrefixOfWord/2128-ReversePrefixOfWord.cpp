@@ -1,0 +1,14 @@
+// Last updated: 4/15/2026, 10:47:07 AM
+class Solution {
+public:
+    string reversePrefix(string word, char ch) {
+        for(int i = 0 ; i < word.size() ; i++){
+            if(word[i] == ch){
+                string w1 = word.substr(0, i + 1);
+                reverse(w1.begin() , w1.end());
+                return w1 + word.substr(i + 1);
+            }
+        }
+        return word;
+    }
+};
