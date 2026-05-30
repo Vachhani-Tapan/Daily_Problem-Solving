@@ -1,16 +1,16 @@
-// Last updated: 4/15/2026, 10:50:00 AM
-class Solution {
-public:
-    int maxArea(vector<int>& height) {
-        int l = 0;
-        int r = height.size() - 1;
-        int ans = 0;
-        while (l < r) {
-            int w = r - l;
-            int cap = min(height[l], height[r]);
-            ans = max(ans, w * cap);
-            (height[l] < height[r]) ? l++ : r--;
-        }
-        return ans;
-    }
-};
+// Last updated: 5/30/2026, 3:52:19 PM
+1class Solution {
+2public:
+3    int maxArea(vector<int>& height) {
+4        int l = 0;
+5        int r = height.size() - 1;
+6        int ans = 0;
+7        while (l < r) {
+8            int w = r - l;
+9            int cap = min(height[l], height[r]);
+10            ans = max(ans, w * cap);
+11            (height[l] < height[r]) ? l++ : r--;
+12        }
+13        return ans;
+14    }
+15};
