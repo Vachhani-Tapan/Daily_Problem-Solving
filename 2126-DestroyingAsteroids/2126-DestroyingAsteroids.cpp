@@ -1,4 +1,4 @@
-// Last updated: 5/10/2026, 10:28:15 AM
+// Last updated: 5/31/2026, 9:37:58 PM
 1class Solution {
 2public:
 3    bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
