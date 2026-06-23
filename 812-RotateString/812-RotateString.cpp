@@ -1,0 +1,8 @@
+// Last updated: 6/23/2026, 10:28:30 AM
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.size() != goal.size()) return false;
+        return (s+s).find(goal) != -1;
+    }
+};
