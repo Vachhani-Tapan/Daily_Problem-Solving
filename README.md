@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 <!---LeetCode Topics End-->
