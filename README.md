@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
