@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [2293-min-max-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2293-min-max-game) |
 | [3151-special-array-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
+| [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
