@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 ## Enumeration
 |  |
