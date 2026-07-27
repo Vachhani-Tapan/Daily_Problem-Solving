@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 | [2739-total-distance-traveled](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2739-total-distance-traveled) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -108,13 +109,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
