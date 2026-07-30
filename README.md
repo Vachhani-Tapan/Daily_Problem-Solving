@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
