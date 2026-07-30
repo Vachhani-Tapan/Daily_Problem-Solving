@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2293-min-max-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 ## Database
 |  |
 | ------- |
