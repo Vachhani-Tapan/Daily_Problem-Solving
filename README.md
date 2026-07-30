@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2739-total-distance-traveled](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2739-total-distance-traveled) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
