@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0619-biggest-single-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0619-biggest-single-number) |
 ## Linked List
 |  |
