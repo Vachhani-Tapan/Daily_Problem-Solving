@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## String
 |  |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sorting
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
