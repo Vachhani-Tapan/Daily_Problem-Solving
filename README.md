@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0619-biggest-single-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0619-biggest-single-number) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Linked List
 |  |
 | ------- |
