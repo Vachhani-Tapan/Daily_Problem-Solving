@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2544-alternating-digit-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2544-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
