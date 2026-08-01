@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
