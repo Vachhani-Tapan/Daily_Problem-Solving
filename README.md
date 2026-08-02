@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
