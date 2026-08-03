@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0086-partition-list) |
+| [0203-remove-linked-list-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0328-odd-even-linked-list) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
