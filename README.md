@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
