@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2544-alternating-digit-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2544-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2739-total-distance-traveled) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
