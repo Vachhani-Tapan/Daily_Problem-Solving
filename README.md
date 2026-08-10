@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
