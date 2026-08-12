@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0038-count-and-say) |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0476-number-complement](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -234,4 +238,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
