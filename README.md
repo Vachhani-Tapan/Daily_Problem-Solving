@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0135-candy) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0476-number-complement](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0476-number-complement) |
 ## Number Theory
 |  |
