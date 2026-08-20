@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0135-candy) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
