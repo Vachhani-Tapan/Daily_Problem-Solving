@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2544-alternating-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2739-total-distance-traveled) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
