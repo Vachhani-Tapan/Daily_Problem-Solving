@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0135-candy) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -283,4 +284,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
