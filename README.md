@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3151-special-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
