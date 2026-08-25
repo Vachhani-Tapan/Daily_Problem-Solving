@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1025-divisor-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
