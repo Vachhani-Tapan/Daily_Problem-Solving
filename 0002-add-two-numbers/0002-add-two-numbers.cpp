@@ -15,6 +15,7 @@ public:
         ListNode* t2 = l2;
         ListNode* dummyNode = new ListNode(-1);
         ListNode* curr = dummyNode;
+
         int carry = 0;
 
         while(t1 || t2){
@@ -25,7 +26,7 @@ public:
 
             ListNode* newNode = new ListNode(sum % 10);
             carry = sum / 10;
-            
+
             curr->next = newNode;
             curr = curr->next;
 
@@ -34,6 +35,7 @@ public:
         }
         if(carry){
             ListNode* newNode = new ListNode(carry);
+
             curr->next = newNode;
         }
         return dummyNode->next;
