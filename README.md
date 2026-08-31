@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2181-merge-nodes-in-between-zeros) |
