@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0135-candy) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
+| [0414-third-maximum-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
