@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0197-rising-temperature) |
 | [0619-biggest-single-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0620-not-boring-movies) |
 | [1729-find-followers-count](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3475-dna-pattern-recognition](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3475-dna-pattern-recognition) |
