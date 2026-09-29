@@ -1,43 +1,49 @@
 class Solution {
 public:
     int calculate(string s) {
-        long long number = 0;
+        long long num = 0;
         int sign = 1;
         int result = 0;
 
         stack<int> stk;
-
-        for (auto k : s) {
-            if (isdigit(k)) {
-                number = (number * 10) + (k - '0');
-            } else if (k == '+') {
-                result += (number * sign);
+        
+        for(int i = 0 ; i < s.size() ; i++){
+            if(isdigit(s[i])){
+                num = (num * 10) + (s[i] - '0');
+            }
+            else if(s[i] == '+'){
+                result += (num * sign);
                 sign = 1;
-                number = 0;
-            } else if (k == '-') {
-                result += (number * sign);
+                num = 0;
+            }
+            
+            else if(s[i] == '-'){
+                result += (num * sign);
                 sign = -1;
-                number = 0;
-            } else if (k == '(') {
+                num = 0;
+            }
+            else if(s[i] == '('){
                 stk.push(result);
                 stk.push(sign);
                 result = 0;
-                number = 0;
                 sign = 1;
-            } else if (k == ')') {
-                result += (number * sign);
-                number = 0;
+                num = 0;
+            }
+            else if(s[i] == ')'){
 
-                int stack_sign = stk.top();
+                result += (num * sign);
+                num = 0;
+
+                int sign = stk.top();
                 stk.pop();
-                int last_result = stk.top();
+                int last_res = stk.top();
                 stk.pop();
 
-                result *= stack_sign;
-                result += last_result;
+                result *= sign;
+                result += last_res;
             }
         }
-        result += (number * sign);
+        result += (num * sign);
         return result;
     }
 };
