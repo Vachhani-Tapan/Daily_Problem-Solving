@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0224-basic-calculator) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0925-long-pressed-name](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -328,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
