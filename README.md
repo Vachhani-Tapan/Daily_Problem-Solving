@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2293-min-max-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3151-special-array-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
