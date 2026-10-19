@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1817-finding-the-users-active-minutes](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1817-finding-the-users-active-minutes) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2293-min-max-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2974-minimum-number-game](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2974-minimum-number-game) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
