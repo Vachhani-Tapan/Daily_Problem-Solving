@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0009-palindrome-number) |
 | [0224-basic-calculator](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0224-basic-calculator) |
 | [0445-add-two-numbers-ii](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vachhani-Tapan/Daily_Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
